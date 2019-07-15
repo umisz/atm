@@ -1,0 +1,1 @@
+Stopwords berikut digunakan pada penelitian terkait 'Visualisasi Pengelompokkan Topik Status Twitter Caleg berdasarkan Kubu Pendukung Capres dan Cawapres dalam Pemilu 2019 menggunakan Author-Topic Model'
